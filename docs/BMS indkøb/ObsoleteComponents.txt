@@ -1,0 +1,20 @@
+Mangler modstande:   ---  men tager nærmeste.
+230 kOhm mangler 2
+960 kOhm mangler 1
+40 kOhm mangler 1
+10 kOhm mangler 3
+
+
+liste over obsolete:
+PMV90EN
+FM25V20-G 
+LT6656A    ----   men man kan købe B version - findes på current sensor (ingen backups required). 
+modstandene ovenover
+
+8 Frontend CHIPS
+http://dk.farnell.com/texas-instruments/bq76pl536atpaptq1/batt-prot-li-ion-27v-htqfp-64/dp/2492116
+
+Bestilling NU 9 maj 2016:
+SMD fuse bestit 5stk slow acting BOURNS
+PMV90EN bestilt anderledes
+FM25V20-G bestilt anderledes

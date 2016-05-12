@@ -1,0 +1,27 @@
+Linjenr.,Varenummer,RoHS-kompatibel ved undtagelse,Noter,Antal,Producentens varenummer,Producent / beskrivelse,Lagerstatus,Enhedspris,Linjepris,Rabatpris;;;;;;;;;;;;;
+"1,1230455,No,,5.0,""OPA2333AIDG4"",""Bandwidth:350kHz"; No. of Amplifiers:2; Slew Rate:0.16V/µs; Supply Voltage Range:1.8V to 5.5V; Amplifier Case Style:SOIC; No. of Pins:8; Operating Temperature Min:-40°C;" Operating Temp"",851,26.4000,132.00,,";;;;;;
+"2,1230458,YES,,10.0,""OPA333AIDG4"",""Bandwidth:350kHz"; No. of Amplifiers:1; Slew Rate:0.16V/µs; Supply Voltage Range:1.8V to 5.5V; Amplifier Case Style:SOIC; No. of Pins:8; Operating Temperature Min:-40°C;" Operating Te"",46,14.1000,141.00,,";;;;;;
+"3,1892611,YES,,5.0,""ERTJ1VG103FA"",""Product Range:ERTJ Series"; Thermistor Mounting:SMD; Zero Power Resistance at 25°C:10kohm; Operating Temperature Min:-40°C; Operating Temperature Max:125°C; Thermistor Terminals:SMD;" SVHC:No SV"",15870,3.6500,18.25,,";;;;;;;
+"4,2453182,YES,,5.0,""HCPL2731SD"",""No. of Channels:2 Channel"; Isolation Voltage:2.5kV; CTR Min:500%; Forward Current If Max:20mA; Optocoupler Case Style:Surface Mount DIP; No. of Pins:8Pins; Packaging:Cut Tape;" Pro"",153,18.9000,94.50,,";;;;;;
+"5,1776310,YES,,1.0,""AVR-CAN"",""Silicon Manufacturer:Atmel"; Core Architecture:AVR; Core Sub-Architecture:AVR; Silicon Core Number:AT90; Silicon Family Name:AT90xxx; No. of Bits:8bit; Kit Contents:Board;" Features:CAN C"",17,240.5700,240.57,,";;;;;;
+"6,1670314,YES,,20.0,""ERJA1AJ270U"",""Product Range:AEC-Q200 ERJA1 Series"; Resistance:27ohm; Power Rating:1.33W; Resistance Tolerance:± 5%; Voltage Rating:200V; Resistor Case Style:2512 Wide; Packaging:Cut Tape;" Resistor"",1296,7.0200,140.40,,";;;;;;
+"7,1741194,YES,,5.0,""SN74AUP1G14DBVT"",""Logic Type:Inverter"; Output Current:4mA; No. of Inputs:1; Supply Voltage Min:0.8V; Supply Voltage Max:3.6V; Logic Case Style:SOT-23; No. of Pins:5; Operating Temperature Min:-40°C;" O"",817,2.9209,14.60,,";;;;;
+"8,2008341,YES,,10.0,""CR0603-FX-1002ELF"",""Product Range:CR Series"; Resistance:10kohm; Power Rating:100mW; Resistance Tolerance:± 1%; Voltage Rating:50V; Resistor Case Style:0603 [1608 Metric]; Packaging:Cut Tape;" Resistor El"",108878,0.1090,1.09,,";;;;;;
+"9,1085299,YES,,5.0,""74HCT04D"",""Logic Type:Inverter"; Output Current:4mA; No. of Inputs:1; Supply Voltage Min:4.5V; Supply Voltage Max:5.5V; Logic Case Style:SOIC; No. of Pins:14; Operating Temperature Min:-40°C;" Operat"",5409,1.8500,9.25,,";;;;;
+"10,2320813,YES,,20.0,""MC0603B104J160CT"",""Product Range:MC Series"; Capacitance:0.1µF; Capacitance Tolerance:± 5%; Dielectric Characteristic:X7R; Voltage Rating:16V; Ceramic Capacitor Case:0603 [1608 Metric];" Operating Temperatur"",108397,0.1480,2.96,,";;;;;;;
+"11,1171085,Y-EX,,10.0,""MC0063W06031953K"",""Product Range:MC Series"; Resistance:953kohm; Power Rating:63mW; Resistance Tolerance:± 1%; Voltage Rating:50V; Resistor Case Style:0603 [1608 Metric]; Packaging:Cut Tape;" Resistor"",15835,0.0119,0.12,,";;;;;;
+"12,1171020,Y-EX,,10.0,""MC0063W06031232K"",""Product Range:MC Series"; Resistance:232kohm; Power Rating:63mW; Resistance Tolerance:± 1%; Voltage Rating:50V; Resistor Case Style:0603 [1608 Metric]; Packaging:Cut Tape;" Resistor"",5030,0.1130,1.13,,";;;;;;
+"13,2447368,YES,,10.0,""MCWR06X4022FTL"",""Product Range:MCWR Series"; Resistance:40.2kohm; Power Rating:100mW; Resistance Tolerance:± 1%; Voltage Rating:50V; Resistor Case Style:0603 [1608 Metric]; Packaging:Cut Tape;" Resistor"",4620,0.0268,0.27,,";;;;;;
+"14,1859849,YES,,5.0,""BSS138P"",""Transistor Polarity:N Channel"; Continuous Drain Current Id:360mA; Drain Source Voltage Vds:60V; On Resistance Rds(on):0.9ohm; Rds(on) Test Voltage Vgs:10V; Threshold Voltage Vgs:1.2V;" Pow"",50703,0.7670,3.84,,";;;;;;;
+"15,1094997,YES,,3.0,""BSS84"",""Transistor Polarity:P Channel"; Continuous Drain Current Id:-130mA; Drain Source Voltage Vds:-50V; On Resistance Rds(on):1.2ohm; Rds(on) Test Voltage Vgs:-5V; Threshold Voltage Vgs:-1.7V;",47676,1.0500,3.15,,
+16,1146032,YES,,2.0,FT232RL-REEL"",""Bridge Type:USB to UART"; Supply Voltage Min:1.8V; Supply Voltage Max:5.25V; Interface Case Style:SSOP; No. of Pins:28Pins; Operating Temperature Min:-40°C; Operating Temperature Max:85°C;" Pa"",Out of Stock,30.9000,61.80,,"
+"17,1902417,YES,,10.0,""BAV20W"",""Diode Configuration:Single"; Repetitive Reverse Voltage Vrrm Max:150V; Forward Current If(AV):400mA; Forward Voltage VF Max:1.25V; Reverse Recovery Time trr Max:50ns;" Forward Surge Current I"",2865,2.3500,23.50,,";;;;;;;;
+"18,1972682,YES,,30.0,""PMV37EN"",""Transistor Polarity:N Channel"; Continuous Drain Current Id:3.1A; Drain Source Voltage Vds:30V; On Resistance Rds(on):0.028ohm; Rds(on) Test Voltage Vgs:10V; Threshold Voltage Vgs:1.5V;" Pow"",1237,1.8500,55.50,,";;;;;;;
+"19,2077756,YES,,2.0,""FM25W256-G"",""Memory Size:256Kbit"; NVRAM Memory Configuration:32K x 8bit; Supply Voltage Min:2.7V; Supply Voltage Max:5.5V; Memory Case Style:SOIC; No. of Pins:8Pins; IC Interface Type:SPI; Access Time:-;" Opera"",739,56.8500,113.70,,";;;;;
+"20,2291892,YES,,5.0,""SF-0603S050-2"",""Voltage Rating V AC:-"; Voltage Rating V DC:50VDC; Fuse Current:500mA; Breaking Capacity Current AC:50A; Breaking Capacity Current DC:50A; Blow Characteristic:Slow Blow;" Product Range:S"",1877,4.0600,20.30,,";;;;;;;
+;;;;;;;;;;;;;
+,,,,,,,Subtotal,1077.93;;;;;;;;;;;;;
+,,,,,,,Total,1077.93;;;;;;;;;;;;;
+,,,,,,,Fragt,0.00;;;;;;;;;;;;;
+,,,,,,,Moms,Unknown;;;;;;;;;;;;;
+,,,,,,,I alt,1077.93;;;;;;;;;;;;;
