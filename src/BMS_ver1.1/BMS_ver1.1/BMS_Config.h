@@ -20,7 +20,7 @@
 #define AFE_count 2
 
 //Battery design capacity[mAh]
-#define capacity 2200// was 3300
+#define capacity 2650// was 3300
 
 //Lower threshold[mV]
 #define Vcell_min 3000
